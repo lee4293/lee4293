@@ -11,5 +11,5 @@ For more information visit [https://daniellee.dev](https://daniellee.dev/)
 
 ---
 **Current Projects**
-> * Working on a personal website
+> * Working on my personal website + projects
 > * More coming soon...

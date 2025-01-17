@@ -7,7 +7,7 @@
 
 **1.5+ years of professional experience in software development and data engineering**
 
-For more information visit [google.com ](url)
+For more information visit [https://daniellee.dev](https://daniellee.dev/)
 
 ---
 **Current Projects**

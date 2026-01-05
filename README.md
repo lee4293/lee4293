@@ -11,5 +11,4 @@ For more information visit my [website](https://daniellee.dev/)(in-development) 
 
 ---
 **Current Projects**
-> * Working on my personal website + projects
-> * More coming soon...
+> [CampusBuzz](https://www.campusbuzz.live/)

@@ -7,8 +7,8 @@
 
 **2+ years of professional experience in software development and data engineering**
 
-For more information visit my [website](https://daniellee.dev/)(in-development) or my [LinkedIn](https://www.linkedin.com/in/lee4293/)
+For more information visit my [website](https://daniellee.dev/)(constantly configuring/improving) or my [LinkedIn](https://www.linkedin.com/in/lee4293/)
 
 ---
 **Current Projects**
-> [CampusBuzz](https://www.campusbuzz.live/)
+> [Seam] Details TBA, follow my LinkedIn for updates

@@ -10,5 +10,11 @@
 For more information visit my [website](https://daniellee.dev/)(constantly configuring/improving) or my [LinkedIn](https://www.linkedin.com/in/lee4293/)
 
 ---
-**Current Projects**
-> [Nuveri] - Research platform for verifying claims on social media and the internet [nuveri.app]
+**Current Updates**
+> Co-founding [Nuveri](https://nuveri.app/) - a research web app for verifying claims you see online and on social media.
+> 
+> Hack the Harvest @ UC Davis: Nov 14-15
+> 
+> Developer for MLSN @ UC Davis
+>
+> Interviewing for SWE roles

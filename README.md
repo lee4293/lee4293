@@ -11,4 +11,4 @@ For more information visit my [website](https://daniellee.dev/)(constantly confi
 
 ---
 **Current Projects**
-> [Nuveri] Details TBA, follow my LinkedIn for updates
+> [Nuveri] - Research platform for verifying claims on social media and the internet [nuveri.app]
